@@ -5,12 +5,13 @@ Date: 12/12/2020
 
 The program being used to run is the simulator file.
 
+### Description:
 The program takes in two command-line arguments. The first indicates what algorithm to use for the
 simulation and the second is the name of the file for the simulation. It is assumed that the file exists in
 the current directory, or the relative or full path is provided. To indicate that FIFO is to be used, then
-”-f” is given as the first command-line argument. To indicate that advising appointments are prioritized,
-“-a” is used. To indicate that project demos are prioritized, “-d” is used. To indicate that project questions
-are prioritized, “-q” is used.
+`-f` is given as the first command-line argument. To indicate that advising appointments are prioritized,
+`-a` is used. To indicate that project demos are prioritized, `-d` is used. To indicate that project questions
+are prioritized, `-q` is used.
 
 Example input files have been provided in the forms of infile1.txt, infile2.txt, and infile3.txt.     
 The input file has the following components:      
