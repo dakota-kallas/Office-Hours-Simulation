@@ -1,6 +1,5 @@
 # Office-Hours-Simulation
 
-## Overview
 A program written in C to simulate a professor's office hours throughout the week using different priorities.
 
 ## Author
